@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/pydantic/logfire-helm-chart/commit/5ac371653e0c109d3b54b761b5dc2b400666e403",
       "git:hexsha": "5ac371653e0c109d3b54b761b5dc2b400666e403",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "logfire-0.14.1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "logfire-0.14.1",
+      "repolex:parsedAt": "2026-10-11T19:58:18.946821+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pydantic/logfire-helm-chart/commit/5ed91a3e553d3aa954715b5f482cd02dd7a8e4c1",
