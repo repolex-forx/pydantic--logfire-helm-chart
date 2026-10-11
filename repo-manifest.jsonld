@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pydantic/logfire-helm-chart/commit/5ac371653e0c109d3b54b761b5dc2b400666e403",
       "git:hexsha": "5ac371653e0c109d3b54b761b5dc2b400666e403",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "logfire-0.14.1"
     },
     {
