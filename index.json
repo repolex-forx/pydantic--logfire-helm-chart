@@ -1,0 +1,11 @@
+{
+  "org": "pydantic",
+  "repo": "logfire-helm-chart",
+  "versions": [
+    {
+      "commit": "5ac371653e0c109d3b54b761b5dc2b400666e403",
+      "tag": "logfire-0.14.1",
+      "parsed_at": "2026-10-11T19:58:19.046324+00:00"
+    }
+  ]
+}
